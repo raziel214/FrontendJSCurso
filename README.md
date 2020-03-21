@@ -1,3 +1,3 @@
 # Platzi-FrontEnd-JavaScript
-#Proyecto funciones frontend javascript
+##Proyecto funciones frontend javascript
 
