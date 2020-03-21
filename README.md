@@ -1,2 +1,3 @@
-# Platzi-Fundamentos-JavaScript
-#Proyecto funciones basicas de javascript
+# Platzi-FrontEnd-JavaScript
+#Proyecto funciones frontend javascript
+
