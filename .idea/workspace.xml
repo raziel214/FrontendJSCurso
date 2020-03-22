@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38854e11-b8a8-439d-bbc3-302cba4235a3" name="Default Changelist" comment="" />
+    <list default="true" id="38854e11-b8a8-439d-bbc3-302cba4235a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/clase7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase6.html" beforeDir="false" afterPath="$PROJECT_DIR$/clase6.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +48,16 @@
       <workItem from="1584813702195" duration="9347000" />
       <workItem from="1584880398322" duration="4743000" />
       <workItem from="1584908441749" duration="2278000" />
+      <workItem from="1584911261640" duration="1284000" />
     </task>
+    <task id="LOCAL-00001" summary="ajuste images">
+      <created>1584911317601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584911317601</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,8 +78,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ajuste images" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajuste images" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="310" y="0" key="CommitChangelistDialog2" timestamp="1584911316146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584911316146" />
     <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1584895587831">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
