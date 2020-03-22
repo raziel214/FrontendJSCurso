@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38854e11-b8a8-439d-bbc3-302cba4235a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/clase6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo-platzi-video-BW2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="38854e11-b8a8-439d-bbc3-302cba4235a3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
       <workItem from="1584812917670" duration="230000" />
       <workItem from="1584813702195" duration="9347000" />
       <workItem from="1584880398322" duration="4743000" />
-      <workItem from="1584908441749" duration="2174000" />
+      <workItem from="1584908441749" duration="2278000" />
     </task>
     <servers />
   </component>
@@ -75,9 +71,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584895587831" />
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584908460842">
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584911264476">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584908460842" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584911264476" />
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584911281319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="283" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1584911281319" />
   </component>
 </project>
