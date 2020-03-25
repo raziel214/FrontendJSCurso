@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38854e11-b8a8-439d-bbc3-302cba4235a3" name="Default Changelist" comment="ajuste images">
-      <change afterPath="$PROJECT_DIR$/clase11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/google-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo-platzi-video-BW2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/twitter-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clase12.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +52,7 @@
       <workItem from="1584908441749" duration="2278000" />
       <workItem from="1584911261640" duration="3737000" />
       <workItem from="1584974510271" duration="11490000" />
-      <workItem from="1585067521743" duration="1805000" />
+      <workItem from="1585067521743" duration="4413000" />
     </task>
     <task id="LOCAL-00001" summary="ajuste images">
       <created>1584911317601</created>
